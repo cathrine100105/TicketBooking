@@ -1,0 +1,14 @@
+All Tickets:
+Ticket ID: 1 | Cathrine - Dindigul to Chennai
+Ticket ID: 2 | Praba - Madurai to Theni
+Ticket ID: 3 | Peter - Trichy to Chennai
+
+Ticket found for ID 2: Praba - Madurai to Theni
+
+Updated Ticket ID 2: Praba - Updated: Madurai to Coimbatore
+
+Ticket ID 1 has been canceled.
+
+Remaining Tickets:
+Ticket ID: 2 | Praba - Updated: Madurai to Coimbatore
+Ticket ID: 3 | Peter - Trichy to Chennai
